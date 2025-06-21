@@ -1,5 +1,5 @@
 ## Hi there, I'm Sophie! 👋
 
-I'm a passionate Computer Science student 👩‍💻 learning as much as I can about the world of technology, with a special interest in cybersecurity! 🔐
+I'm a passionate Computer Science student with strong interests in cybersecurity, software development, data science, and artificial intelligence.
 
-[![Sophie's GitHub stats](https://github-readme-stats-nine-dun-37.vercel.app/api?username=sophie-72&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=rose_pine)](https://github-readme-stats-nine-dun-37.vercel.app/api?username=sophie-72&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=rose_pine)
+[![Most Used Languages](https://github-readme-stats-nine-dun-37.vercel.app/api/top-langs/?username=sophie-72&size_weight=0.5&count_weight=0.5&langs_count=18&hide_progress=true&theme=rose_pine)](https://github-readme-stats-nine-dun-37.vercel.app/api/top-langs/?username=sophie-72&size_weight=0.5&count_weight=0.5&langs_count=20&hide_progress=true&theme=rose_pine)
